@@ -1,0 +1,16 @@
+build/
+*.user
+*.pro.user
+CMakeCache.txt
+CMakeFiles/
+.vscode/
+.idea/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+spdlog.log
+*.sqlite
+*.db

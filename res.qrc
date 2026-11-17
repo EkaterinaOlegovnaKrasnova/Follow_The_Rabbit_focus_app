@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/1st.jpeg</file>
+        <file>img/background.jpeg</file>
+        <file>img/background2.0.jpeg</file>
+        <file>img/UserF.jpeg</file>
+        <file>img/exit (1).jpg</file>
+        <file>img/exit (3).jpg</file>
+        <file>img/pomodoro.jpg</file>
+        <file>img/reverse.jpg</file>
+        <file>img/52_17.jpg</file>
+        <file>img/60_10.jpg</file>
+        <file>img/90_20.jpg</file>
+        <file>img/90_20_2.jpg</file>
+        <file>img/change_userF.jpg</file>
+        <file>img/results.jpg</file>
+        <file>img/saveF.jpg</file>
+        <file>img/use.jpg</file>
+        <file>img/users.jpg</file>
+        <file>img/cl1 (1).jpg</file>
+        <file>img/cl1 (2).jpg</file>
+        <file>img/cl1 (3).jpg</file>
+        <file>img/clock (1).jpg</file>
+        <file>img/3d-rendering-easter-bunny-painting-dark-ages.jpg</file>
+        <file>img/pomodoro1.jpg</file>
+        <file>img/reverse (2).jpg</file>
+        <file>img/clock (2).jpg</file>
+        <file>img/icon.ico</file>
+        <file>img/images.png</file>
+        <file>img/icon_question.png</file>
+        <file>img/rabbit.jpg</file>
+        <file>img/results1.jpg</file>
+        <file>img/metro111.jpg</file>
+        <file>img/background2.1.jpeg</file>
+    </qresource>
+</RCC>
